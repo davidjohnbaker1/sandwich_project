@@ -12,3 +12,7 @@ Making BLTs
 
 * David, Lead Sandwich Data Scientist 
 * Wachira, King of Git Merge Issues 
+
+## Project Goals
+
+Someone please add this, I have no idea what we are doing here, I just know we got the bid!
